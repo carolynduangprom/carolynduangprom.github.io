@@ -10,7 +10,8 @@ Before starting my professional career, I was an avid traveler, taking time off 
 
 As a remote learner in the 1990s, I studied while traveling, completing assignments along the way, and writing exams at my embassies abroad. 
 
-I recently moved from my hometown, Cape Town, South Africa, to experience life in Bangkok, Thailand. I’m currently open to local, remote, or relocation opportunities. 
+I recently moved from my hometown, Cape Town, South Africa, to experience life in Bangkok, Thailand. 
+
 
 # Education and training
 ## Bachelor’s Degree (BA)
