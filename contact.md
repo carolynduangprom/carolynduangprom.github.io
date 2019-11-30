@@ -1,10 +1,11 @@
 [Home](https://carolynduangprom.github.io/) | Portfolio | **Contact** 
 
 # Contact
-:email: c.duangprom@gmail.com
+Email: c.duangprom@gmail.com
 
-:iphone: +66 46515372
+Phone (Thailand) +66 46515372
 
-:iphone: +27 768416580
+Phone (South Africa): +27 768416580
 
-Bangkok, Thailand
+Current location: Bangkok, Thailand
+
