@@ -1,5 +1,5 @@
 
-[**Home**](https://carolynduangprom.github.io/) | Portfolio | Contact
+[**Home**](https://carolynduangprom.github.io/) | Portfolio | [Contact](https://carolynduangprom.github.io/contact)
 
 # About me
 
