@@ -1,6 +1,9 @@
 [Home](https://carolynduangprom.github.io/) | Portfolio | **Contact** 
 
 # Contact
+
+LinkedIn: https://www.linkedin.com/in/carolynduangprom/
+
 Email: c.duangprom@gmail.com
 
 Phone (Thailand) +66 46515372
