@@ -1,2 +1,2 @@
 
-This will be my site
+[Contact](https://carolynduangprom.github.io/contact)  |  Portfolio
