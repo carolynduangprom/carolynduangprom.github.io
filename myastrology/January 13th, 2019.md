@@ -1,3 +1,5 @@
+# January 13th, 2019
+
 I attended a local AirBnB experience with my homeschooled son last night, called 'Stargazing with an astrophysicist'.
 The host describes in her experience that she can talk about, among other things, 'astrology'. Somehow I missed that in the description, but was not surprised by her
 introduction to the evening, when she launched into a typical skeptics dismissal: how can all people be explained by 12 signs, which are not even based on an
