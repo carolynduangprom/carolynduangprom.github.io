@@ -1,4 +1,4 @@
-[Home](https://carolynduangprom.github.io/) | Portfolio | **Contact** 
+[Home](https://carolynduangprom.github.io/) | [Portfolio](https://carolynduangprom.github.io/portfolio) | [**Contact**](https://carolynduangprom.github.io/contact)
 
 # Contact
 
