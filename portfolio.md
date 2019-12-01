@@ -3,10 +3,21 @@
 # Portfolio
 
 ## Technical documentation
-* KnowledgeTree user guide
-* KnowledgeTree administration guide
+### KnowledgeTree
+> *Note: KnowledgeTree no longer exists as an independent entity. As an open source-commercial system, all documentation was publicly available online.*
+* KnowledgeTreeLive Quick Start Guide
+* KnowledgeTree Installation and Upgrade Guide
+* KnowledgeTree Client Tools User Guide
+* [KnowledgeTree User Manual](https://github.com/carolynduangprom/carolynduangprom.github.io/blob/master/KnowledgeTreeUserManual.pdf)
+* [KnowledgeTree Administrator Manual](https://github.com/carolynduangprom/carolynduangprom.github.io/blob/master/KnowledgeTree%20v3.5.4%20Administrator%20Manual.pdf)
 * KnowledgeTree installation guide
+
+
+### London Bridge Group (Fair Isaac)
 * Phoenix Banking System, online help
+
+
+### CSG International
 * CSG Route user guide
 * CSG Route administration guide
 * CSG Route installation guide
