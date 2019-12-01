@@ -30,10 +30,10 @@ University of South Africa (UNISA)
 * Editing large documents, including technical manuals and guides, masters and PhD dissertations, and research articles
 * Technical writing and documentation
 * Topic-based writing, user guides, administration and installation manuals, conceptual overviews, procedures, issue description, troubleshooting steps, user interface text
-* Authoring tools (Oxygen XML, Help & Manual, Robohelp, Docusaurus
+* Authoring tools (Oxygen XML, Help & Manual, Robohelp, Docusaurus)
 * Working knowledge of GitHub, Git, DocBook XML, HTML, Git
 * Version control systems (SVN, AccuRev)
-*	Confluence and JIRA administration experience
+*	Confluence and JIRA administration and desktop support 
 *	Teamwork, collaboration, independent, process-driven, decision-making
 *	Agile and scrum teams
 
