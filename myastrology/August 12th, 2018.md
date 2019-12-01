@@ -1,4 +1,4 @@
-# August 12, 2018
+# August 12th, 2018
 
 The entry of the planet Uranus to Taurus (where it will be for around 7 years) is particularly important in the chart of the 'new' South Africa. Uranus is currently at 2
 degrees of Taurus, right on Mercury in the birth chart and close to the IC (the 4th house cusp, and one of the 4 angles of the chart)). Uranus heads back into Aries
