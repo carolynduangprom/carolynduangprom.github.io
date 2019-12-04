@@ -11,7 +11,7 @@ OmiseGO's publicly available documentation is published on GitHub. Content creat
 * OmiseGO [Network upgrade guide](https://github.com/omisego/plasma-upgrade-scripts)
 
 ### CSG International
-At CSG, I initially created and managed documentation for the Optimized Routing product. When Optimized Routing was replaced by CSG Route, I transitioned to this team, which was initially entirely remote. I established a documentation process for the Route team, which involved identifying subject matter experts, analyzing the existing documentation set to identify documents to be removed or merged to lower the documentation overhead, and then editing and updating legacy content. Project managers and the team were kept informed regarding document status by way of regular documentation status reports. 
+At CSG, I initially created and managed documentation for the Optimized Routing product. When Optimized Routing was replaced by CSG Route, I transitioned to this team, which was initially entirely remote. I established a documentation process for the Route team, which involved identifying subject matter experts, analyzing the existing documentation set to determine which documents could be deprecated or merged to lower the documentation overhead, and then editing and updating legacy content. Project managers and the team were kept informed regarding document status by way of regular documentation status reports. 
 
 Content was created and published using oXygen XML Editor with DocBook XML. Documents were published as Word files, PDF, and Webhelp, checked in with the code to a version control system, and shipped with the product. The CSG documentation is only available to customers. Anonymized content snippets will be provided.
 
