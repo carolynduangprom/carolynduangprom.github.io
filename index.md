@@ -3,7 +3,7 @@
 
 # About me
 
-I'm a native English speaker, and an experienced technical writer, driven by the desire to make technical content interesting and useful.
+I'm a native English speaker and an experienced technical writer, driven by the desire to make technical content interesting and useful.
 I craft text to help people make sense of complex concepts and procedures. I have experience in several software industry sectors including e-learning, web content management, banking, wholesale telecoms billing, and blockchain. I've worked in IT startups and global multinationals.
 
 Before starting my professional career, I was an avid traveler, taking time off to work and backpack in Africa, Europe, and Asia. I actively sought out adventures, including cycling through Africa, working on a collective farm, and living for an extended period in a village in Thailand. 
