@@ -1,4 +1,4 @@
-# July 6, 2014
+# Astrology in everyday life (July 6, 2014)
 
 We see astrology in operation in everyday life all of the time. 
 
