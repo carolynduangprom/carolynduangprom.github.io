@@ -1,4 +1,5 @@
-# November 14th, 2019
+# Patience is power
+(November 14th, 2019)
 
 Mercury is currently retrograde again (Oct 31st - Nov 20th 2019). I’ve had quite a year! I accepted a job out of my home country (in a mercury
 retrograde in March 2019!) and not surprisingly, it didn’t work out! But here I am, 6 months later on foreign shores, waiting to make the next step, to make a decision.
