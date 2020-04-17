@@ -5,7 +5,7 @@
 ## Technical documentation
 
 ### OmiseGO
-OmiseGO's publicly available documentation is published on GitHub. Content created and edited for OmiseGO consists of markdown files created either directly in GitHub, or using Docusaurus. Most content currently exists in private repositories, pending review and publication to a dedicated documentation site. 
+OmiseGO's publicly available documentation was published on GitHub. Content created and edited for OmiseGO consists of markdown files created either directly in GitHub, or using Docusaurus. 
 
 * OmiseGO - [Using a browser for DAI transactions on the OmiseGO Network](https://github.com/omisego/dev-portal/blob/master/guides/dai_transaction_from_browser.md)
 * OmiseGO [Network upgrade guide](https://github.com/omisego/plasma-upgrade-scripts)
@@ -44,7 +44,7 @@ Documentation was created and published using Robohelp. Content was published as
 
 ## Editing, proofreading, content creation
 
-* [Proofread and edit, doctoral thesis](http://uir.unisa.ac.za/bitstream/handle/10500/22282/thesis_kark_m.pdf?sequence=1&isAllowed=y): This work involved substantial editing and restructuring of a first complete draft of a PhD thesis, prior to submission for the final (credited) academic edit.  
+* Proofread and edit, doctoral thesis: This work involved substantial editing and restructuring of a first complete draft of a PhD thesis, prior to submission for the final (credited) academic edit.  
 
 * Course creation and development, Laragh Courseware [Effective Presentations with PowerPoint](http://www.laragh.com/about/products/create-effective-presentations/)
 
