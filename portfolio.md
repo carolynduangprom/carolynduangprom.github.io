@@ -2,6 +2,10 @@
 
 # Portfolio
 
+## Sharepoint / Confluence / Jira front end administrator
+At CSG, while performing full duty as a technical writer for a software team, I managed a legacy SharePoint site, as well as the organization's Confluence and Jira on-premise instances. As the Confluence and Jira administrator, I provided support to a remote technical backend team, communicating with users around upgrades, investigating plugin requests, testing upgrades, and providing day-to-day desktop and project support to co-located and remote users. 
+
+
 ## Technical documentation
 
 ### OmiseGO
