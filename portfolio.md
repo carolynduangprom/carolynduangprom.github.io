@@ -2,10 +2,6 @@
 
 # Portfolio
 
-## Sharepoint / Confluence / Jira front end administrator
-At CSG, while performing full duty as a technical writer for a software team, I managed a legacy SharePoint site, as well as the organization's Confluence and Jira on-premise instances. As the Confluence and Jira administrator, I provided support to a remote technical backend team, communicating with users around upgrades, investigating plugin requests, testing upgrades, and providing day-to-day desktop and project support to co-located and remote users. 
-
-
 ## Technical documentation
 
 ### OmiseGO
@@ -15,13 +11,17 @@ OmiseGO's publicly available documentation was published on GitHub. Content crea
 * OmiseGO [Network upgrade guide](https://github.com/omisego/plasma-upgrade-scripts)
 
 ### CSG International
-At CSG, I initially created and managed documentation for the Optimized Routing product. When Optimized Routing was replaced by CSG Route, I transitioned to this team, which was initially entirely remote. I established a documentation process for the Route team, which involved identifying subject matter experts, analyzing the existing documentation set to determine which documents could be deprecated or merged to lower the documentation overhead, and then editing and updating legacy content. Project managers and the team were kept informed regarding document status by way of regular documentation status reports. 
+#### Documentation
+For the first 2 - 3 years at CSG, I created and managed documentation for a locally developed telecoms product. When this product was replaced by a product developed by a remote team, I transitioned to the new team to establish a documentation process. This involved analysing the existing documentation set, identifying subject matter experts, developing a documentation process, identifying documents to be deprecated or merged to lower documentation overhead, and editing and updating legacy content. Project managers and the team were kept informed regarding document status by way of regular documentation status reports. 
 
 Content was created and published using oXygen XML Editor with DocBook XML. Documents were published as Word files, PDF, and Webhelp, checked in with the code to a version control system, and shipped with the product. The CSG documentation is only available to customers. Anonymized content snippets will be provided.
 
 * CSG Route user guide
 * CSG Route administration guide
 * CSG Route installation guide
+
+#### Desktop support and system administration
+While performing my role as a technical writer at CSG, I supported the remote backend technical team responsible for upgrades of the site's on-premise Confluence and Jira instances. This involved communicating with users, testing upgrades, investigating and requesting plugins, and providing day-to-day desktop and project support to co-located and remote users. Additionally, I managed a legacy SharePoint site, coordinated the delivery of handover material to global product enablement, and was the site representative for global quality documentation (such as documented software development processes). 
 
 
 ### KnowledgeTree
