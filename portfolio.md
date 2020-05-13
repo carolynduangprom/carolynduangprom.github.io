@@ -12,16 +12,19 @@ OmiseGO's publicly available documentation was published on GitHub. Content crea
 
 ### CSG International
 #### Documentation
-For the first 2 - 3 years at CSG, I created and managed documentation for a locally developed telecoms product. When this product was replaced by a product developed by a remote team, I transitioned to the new team to establish a documentation process. This involved analysing the existing documentation set, identifying subject matter experts, developing a documentation process, identifying documents to be deprecated or merged to lower documentation overhead, and editing and updating legacy content. Project managers and the team were kept informed regarding document status by way of regular documentation status reports. 
+For the first 2 - 3 years at CSG, I created and managed documentation for a locally developed telecoms product. When this product was replaced by a product developed by a remote team, I transitioned to the new team to establish a documentation process. This involved analysing the existing documentation set, identifying subject matter experts, reducing content to lower the documentation overhead, and editing legacy content. Project managers and the team were kept informed regarding document status by way of regular documentation status reports. 
 
-Content was created and published using oXygen XML Editor with DocBook XML. Documents were published as Word files, PDF, and Webhelp, checked in with the code to a version control system, and shipped with the product. The CSG documentation is only available to customers. Anonymized content snippets will be provided.
+CSG content was created and published using oXygen XML Editor with DocBook XML. Documents were published as Word files, PDF, and Webhelp, checked in with the code to a version control system, and shipped with the product. The CSG documentation is only available to customers. Anonymized content snippets will be provided.
 
-* CSG Route user guide
-* CSG Route administration guide
-* CSG Route installation guide
+* User guide
+* Administration guide
+* Installation guide
+* API guides
+
 
 #### Desktop support and system administration
-While performing my role as a technical writer at CSG, I supported the remote backend technical team responsible for upgrades of the site's on-premise Confluence and Jira instances. This involved communicating with users, testing upgrades, investigating and requesting plugins, and providing day-to-day desktop and project support to co-located and remote users. Additionally, I managed a legacy SharePoint site, coordinated the delivery of handover material to global product enablement, and was the site representative for global quality documentation (such as documented software development processes). 
+While performing my role as a technical writer at CSG, I supported a remote technical team responsible for upgrades of the site's on-premise Confluence and Jira instances. As the frontend administrator, I communicated with users around system upgrades, tested new functionality, investigated and proposed new plugin requests, and provided day-to-day desktop and project support to co-located and remote users. Additionally, I managed a legacy SharePoint site, coordinated the gathering and delivery of handover materials to global product enablement, and represented the site for global quality standards. 
+
 
 
 ### KnowledgeTree
