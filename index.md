@@ -13,14 +13,14 @@ As a remote learner in the 1990s, I studied while traveling, completing assignme
 
 
 ## Skills Summary
-•	Bachelor’s degree (Communication and English), with 15+ years’ experience as a technical writer in the software industry
-•	Solid understanding of the SDLC, based on years of working closely with developers and other stakeholders in agile (SAFe, scrum) and non-agile environments
-•	Naturally collaborative and a proactive communicator, working well with different stakeholders to prioritize and manage multiple projects
-•	Customer-focused, and highly skilled at providing support across teams 
-•	Systems-driven, thriving in a structured, process-driven, and quality-focused environment, and strives to create such structures. Always looking for new ways to improve and simplify content and operations
-•	Passionate about translating technical content into plain, user-friendly language 
-•	Proficient with a variety of authoring tools and mark-up languages, including XML (OxygenXML), content management, and version control systems (including SVN and AccuRev)
-•	Experienced in these aspects of content design: style guides; usability; consistent terminology, voice, and tone; writing UI copy, writing for search, analyzing content to identify gaps, deprecate, and restructure, and appropriate use of images 
+* Bachelor’s degree (Communication and English), with 15+ years’ experience as a technical writer in the software industry
+* Solid understanding of the SDLC, based on years of working closely with developers and other stakeholders in agile (SAFe, scrum) and non-agile environments
+* Naturally collaborative and a proactive communicator, working well with different stakeholders to prioritize and manage multiple projects
+* Customer-focused, and highly skilled at providing support across teams 
+* Systems-driven, thriving in a structured, process-driven, and quality-focused environment, and strives to create such structures. Always looking for new ways to improve and simplify content and operations
+* Passionate about translating technical content into plain, user-friendly language 
+* Proficient with a variety of authoring tools and mark-up languages, including XML (OxygenXML), content management, and version control systems (including SVN and AccuRev)
+* Experienced in these aspects of content design: style guides; usability; consistent terminology, voice, and tone; writing UI copy, writing for search, analyzing content to identify gaps, deprecate, and restructure, and appropriate use of images 
 
 
 
