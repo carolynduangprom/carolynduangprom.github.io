@@ -42,7 +42,7 @@ University of South Africa (UNISA)
 * Technical writing and documentation
 * Topic-based writing, user guides, administration and installation manuals, conceptual overviews, procedures, issue description, troubleshooting steps, user interface text
 * Authoring tools (Oxygen XML, Help & Manual, Robohelp, Docusaurus, Readme)
-* Working knowledge of GitHub, Git, DocBook XML, HTML, Git
+* Working knowledge of GitHub, Git, DocBook XML, HTML
 * Version control systems (SVN, AccuRev)
 *	Confluence and JIRA administration and desktop support 
 *	Teamwork, collaboration, independent, process-driven, decision-making
