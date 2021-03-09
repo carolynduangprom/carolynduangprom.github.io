@@ -9,7 +9,7 @@ I've worked at IT start-ups and global multinationals, in both co-located and re
 
 Before starting my professional career, I was an avid traveler, taking time off to work and backpack in Africa, Europe, and Asia. I actively sought out adventures, including cycling through Africa, working on a collective farm, and living for an extended period in a village in Thailand. 
 
-As a remote learner in the 1990s, I studied while traveling, completing assignments along the way, and writing exams at my embassies abroad. Continuing my passion for the opportunities and possibilities of life online, I've spent 2020 assisting my home-schooled son prepare for his Cambridge GCSEs, which has included computer science, and the basics of Python coding.
+As a remote learner in the 1990s, I studied while traveling, completing assignments along the way, and writing exams at my embassies abroad. 
 
 
 ## Skills Summary
